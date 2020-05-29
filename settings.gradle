@@ -1,0 +1,6 @@
+include ':app'
+rootProject.name='My Application'
+include ':lib-ann'
+include ':lib-comm'
+include ':latte-cone'
+include ':latte_ec'
